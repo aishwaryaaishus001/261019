@@ -1,3 +1,7 @@
+/*
+  PROGRAM TO CHECK WHETHER A YEAR IS LEAP YEAR OR NOT
+  AUTHOR : AISHWARYA K P
+*/
 #include<stdio.h>
 void main()
 {
