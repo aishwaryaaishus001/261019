@@ -1,3 +1,7 @@
+/*
+  PROGRAM TO PERFORM THE ARITHMETIC OPERATIONS ON 2 NUMBERS
+  AUTHOR : AISHWARYA K P
+*/
 #include<stdio.h>
 void main()
 {
