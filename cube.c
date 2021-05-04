@@ -1,7 +1,7 @@
 /*
   PROGRAM TO FIND THE CUBE ROOT OF A NUMBER
   AUTHOR : AISHWARYA K P
-  CREATED ON : 26/04/2001
+  CREATED ON : 26/04/2021
 */
 #include<stdio.h>
 #include<math.h>
