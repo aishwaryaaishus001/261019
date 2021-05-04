@@ -1,3 +1,7 @@
+/*
+  PROGRAM TO FIND THE WIND CHILL FACTOR
+  AUTHOR : AISHWARYA K P
+*/
 #include<stdio.h>
 #include<math.h>
 void main()
