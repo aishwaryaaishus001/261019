@@ -1,3 +1,7 @@
+/*
+  PROGRAM TO CHECK WHETHER A NUMBER IS EVEN
+  AUTHOR : AISHWARYA K P
+*/
 #include<stdio.h>
 void main()
 {
