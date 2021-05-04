@@ -1,3 +1,7 @@
+/*
+  PROGRAM TO FIND THE SUM OF TWO NUMBERS
+  AUTHOR : AISHWARYA K P
+*/
 #include<stdio.h>
 void main()
 {
