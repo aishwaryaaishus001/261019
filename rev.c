@@ -1,3 +1,7 @@
+/*
+  PROGRAM TO REVERSE A NUMBER
+  AUTHOR : AISHWARYA K P
+*/
 #include<stdio.h>
 void main()
 {
