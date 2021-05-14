@@ -7,7 +7,7 @@
 #include<stdio.h>
 void main()
 {
-  char c,d;
+  char c;
   printf("Enter the character: ");
   scanf("%c",&c);
   if(65<=c && c<=90)
