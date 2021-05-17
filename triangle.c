@@ -1,3 +1,8 @@
+/*
+  PROGRAM TO FIND THE AREA OF A TRIANGLE WHEN ITS THREE SIDES ARE GIVEN
+  AUTHOR : AISHWARYA K P
+  CREATED ON : 17/05/2021
+*/
 #include<stdio.h>
 #include<math.h>
 void main()
